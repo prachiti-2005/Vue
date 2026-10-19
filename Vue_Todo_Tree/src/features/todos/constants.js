@@ -1,0 +1,1 @@
+export const FILTERS = ['All', 'Completed', 'Incomplete', 'Favourites']
